@@ -1,0 +1,16 @@
+.flightsTable {
+    margin-top: 15px;
+}
+
+.removeIcon {
+    cursor: pointer;
+}
+
+.tableHead {
+    background-color: #ff2e63;
+}
+
+.MuiTableCell-head {
+    color: white !important;
+    font-weight: bolder !important;
+}

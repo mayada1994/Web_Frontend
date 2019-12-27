@@ -1,0 +1,9 @@
+.fab {
+    position: fixed !important;
+    right: 50px;
+    bottom: 50px;
+}
+
+.inputLabel {
+    margin-top: 10px;
+}
